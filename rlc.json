@@ -2,7 +2,7 @@
     "room":                     "RLC DuBsTeP",
 	"author":                   "RLCDuBz",
     "icon":                     "https://upload.xomcloud.co.uk/Ar7C9l31AKp96Ol/logo.png",
-    "css":                      "https://rlcnetwork.com/code/rlc/css/rlc_room.css",
+    "css":                      "https://rawgit.com/RLCDuBz/RLC-Community/master/rlc_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
