@@ -26,7 +26,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           "https://rlcnetwork.com/code/BG/RLC.png",
+        "background":           "https://rawgit.com/RLCDuBz/RLC-Community/master/BG.png",
         "playback":             "https://upload.xomcloud.co.uk/spuJ6PpUI713QAZ/playback.png",
         "admin":                null,
         "ambassador":           null,
