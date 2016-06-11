@@ -4,7 +4,7 @@ header('Content-Type: text/json');
 {
     "room":                     "RLC DuBsTeP",
 	"author":                   "RLCDuBz",
-    "icon":                     "https://rlcnetwork.com/code/logo.png",
+    "icon":                     "https://upload.xomcloud.co.uk/Ar7C9l31AKp96Ol/logo.png",
     "css":                      "https://rlcnetwork.com/code/rlc/css/rlc_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -30,7 +30,7 @@ header('Content-Type: text/json');
     },
     "images": {
         "background":           "https://rlcnetwork.com/code/BG/RLC.png",
-        "playback":             "https://rlcnetwork.com/code/BG/playback.png",
+        "playback":             "https://upload.xomcloud.co.uk/spuJ6PpUI713QAZ/playback.png",
         "admin":                null,
         "ambassador":           null,
         "host":                 null,
