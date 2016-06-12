@@ -8,6 +8,13 @@
     background-position: center center;
 }
 
+.id-6656565 > .badge-box > i.bdg {
+    background-image: url("http://upload.xomcloud.co.uk/qRHpCEluV7zPtMG/RLCminiGIF.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
