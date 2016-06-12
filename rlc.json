@@ -1,7 +1,7 @@
 {
     "room":                     "RLC DuBsTeP",
 	"author":                   "RLCDuBz",
-    "icon":                     "https://upload.xomcloud.co.uk/6TNXiTCr8P6RoWc/Audio%20Logo4.png",
+    "icon":                     "http://upload.xomcloud.co.uk/wGWESKITi1Wi3zt/rlc.png",
     "css":                      "https://rawgit.com/RLCDuBz/RLC-Community/master/rlc_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -10,7 +10,7 @@
         "allowAutograb":        true,
         "allowSmartVote":       true,
         "allowEmotes":          true,
-        "allowShowingMehs":     true,
+        "allowShowingMehs":     false,
         "forceSmartVote":       false
     },
     "ccc": {
